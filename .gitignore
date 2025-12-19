@@ -1,0 +1,10 @@
+.next
+.turbo
+node_modules
+.env*
+dist
+out
+*.log
+pnpm-lock.yaml
+yarn.lock
+.dev.vars
